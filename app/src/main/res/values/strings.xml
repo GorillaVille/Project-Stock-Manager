@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project Stock Manager</string>
+    <string name="search_bar"> Search for available stock </string>
+</resources>
